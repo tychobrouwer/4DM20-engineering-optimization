@@ -4,3 +4,4 @@ matplotlib==3.9.2
 Mosek==11.0.7
 scipy==1.14.1
 ipykernel==6.29.5
+latex==0.7.0
